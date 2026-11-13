@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://potrfolio-puce.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://devkumardahiya.is-a.dev"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/devkumardahiya">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://link.springer.com/chapter/10.1007/978-3-032-28594-2_9">Springer paper</a> &nbsp;·&nbsp;
   <a href="mailto:devdahiya4002@gmail.com">devdahiya4002@gmail.com</a>
@@ -72,7 +72,7 @@ Twenty repositories written from first principles. Every one has its own test su
 | [**Malware Detection**](https://github.com/Dev123dahiya/Malware-Detection) | Classifies Windows executables by rendering file bytes as images and fine-tuning a ResNet-34 | Python, fastai, ResNet-34 |
 | [**Test Drive Analytics Dashboard**](https://github.com/Dev123dahiya/crestwyn-test-drive-analytics-dashboard) | Multi-page BI dashboard over a year of test drives: consultant performance, satisfaction, conversion | Analytics, Data visualization |
 
-Every project is on the [portfolio](https://potrfolio-puce.vercel.app) with a screenshot or its real output.
+Every project is on the [portfolio](https://devkumardahiya.is-a.dev) with a screenshot or its real output.
 
 ---
 
